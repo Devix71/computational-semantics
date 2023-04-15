@@ -240,3 +240,9 @@ Thumbs.db #thumbnail cache on Windows
 
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,python,jupyternotebooks,emacs
+assignments/02-vector-semantics/computational-semantics-assignment-02/ktw_wikipediaktw.npy
+assignments/02-vector-semantics/computational-semantics-assignment-02/ppmi_wikipediaktw.npy
+assignments/02-vector-semantics/computational-semantics-assignment-02/raw_wikipediaktw.npy
+assignments/02-vector-semantics/computational-semantics-assignment-02/sub_glov.npy
+assignments/02-vector-semantics/computational-semantics-assignment-02/svd50_wikipedia10k.npy
+assignments/02-vector-semantics/computational-semantics-assignment-02/wikipedia.txt
